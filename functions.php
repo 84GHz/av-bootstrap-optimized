@@ -194,6 +194,6 @@ if (!(class_exists("Puc_v4_Factory"))) {
   $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
       'https://github.com/84GHz/av-bootstrap-optimized/',
       __FILE__,
-      'av-bootstrap-optimized'
+      'style'
   );
   
