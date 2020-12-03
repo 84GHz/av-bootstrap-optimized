@@ -15,7 +15,6 @@ uses Bootstrap-Native-JS (no jquery) and custom compiled styles
 to be used with achtvier-blocks-optimized (Gutenberg)
 no sidebars
 no Hero/Headerbanners
-no bullshit
 
 This theme will be an active project which we will update from time to time. Check this page regularly for the updates.
 
