@@ -1,6 +1,6 @@
 === WP Bootstrap Starter ===
 
-Tags: blog, custom-menu, featured-images, threaded-comments, translation-ready, right-sidebar, custom-background, e-commerce, theme-options, sticky-post, full-width-template
+Tags: blog, custom-menu,  translation-ready,  e-commerce, theme-options, sticky-post, full-width-template
 
 Copyright (c) 2020 by 84GHz (https://84ghz.de/)
 
@@ -12,11 +12,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 Custom Theme build for 84GHz,
 uses Bootstrap-Native-JS (no jquery) and custom compiled styles
-to be used with achtvier-blocks-optimized
+to be used with achtvier-blocks-optimized (Gutenberg)
 no sidebars
 no Hero/Headerbanners
 no bullshit
-
 
 This theme will be an active project which we will update from time to time. Check this page regularly for the updates.
 
