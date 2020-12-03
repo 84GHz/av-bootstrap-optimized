@@ -1,0 +1,16 @@
+{
+  "name": "av-bootstrap-o",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node-sass -w main.scss ../assets/css/av-bootstrap.min.css --output-style compressed"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "node-sass": "^5.0.0"
+  }
+}
