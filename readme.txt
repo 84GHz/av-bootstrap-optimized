@@ -2,8 +2,6 @@
 
 Tags: no-bloat, bootstrap-native, blog, custom-menu,  translation-ready,  e-commerce, theme-options, sticky-post, full-width-template
 
-Copyright (c) 2020 by 84GHz (https://84ghz.de/)
-
 License: GNU General Public License v2.0
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
